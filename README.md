@@ -4,6 +4,8 @@ By [Tao Hu](https://ecart18.github.io/), [Lichao Huang](https://scholar.google.c
 
 The code for the official implementation of paper **[TSR-tracker](doc/Multi-object Tracking via End-to-end Tracklet Searching and Ranking.pdf)**. 
 
+The code will be made publicly available after review.
+
 ## Contents
 1. [Motivation](#motivation)
 2. [Performances](#performance)
