@@ -2,7 +2,7 @@
 
 By [Tao Hu](https://ecart18.github.io/), [Lichao Huang](https://scholar.google.com/citations?user=F2e_jZMAAAAJ&hl=en), [Han Shen](han.shen@horizon.ai).
 
-The code for the official implementation of paper **[TSR-tracker](doc/Multi-object Tracking via End-to-end Tracklet Searching and Ranking.pdf)**. 
+The code for the official implementation of paper **[TSR-tracker](https://arxiv.org/abs/2003.02795)**. 
 
 The code will be made publicly available after review.
 
@@ -15,7 +15,7 @@ The code will be made publicly available after review.
 6. [Bibtex](#bibtex)
 
 ## Motivation <a name="motivation">
-<div align='center'><img align="middle" src="imgs/main.png" width="80%" /><br></div>
+<div align='center'><img align="middle" src="imgs/main.png" width="70%" /><br></div>
 
 ## Performances <a name="performance">
 #### Results
